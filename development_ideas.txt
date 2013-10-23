@@ -12,3 +12,4 @@ ideas for hacking stuff or tech to practice:
 
 - put all of my tips and tricks into git
 
+- javadocs my methods
