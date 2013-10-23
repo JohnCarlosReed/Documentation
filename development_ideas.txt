@@ -25,3 +25,10 @@ ideas for hacking stuff or tech to practice:
 - rename Development.git
 
 - add author comment to all of my stuff, i cant believe how much i've forgotten
+
+- make pretty all me code
+
+- twitter chatbot with my made it up translator
+
+- make a dataset(harvest from web?)
+
