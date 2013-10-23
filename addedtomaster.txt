@@ -1,2 +1,0 @@
-yes it added from master, now we edit and push from branch.:wq
-
