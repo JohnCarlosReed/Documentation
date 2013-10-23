@@ -1,34 +1,31 @@
-ideas for hacking stuff or tech to practice:
-
+Next Actions:
 - Press the sign-in button and tweet something
-
-- use Junit and Selenium.  Create, for example, a Twitter object with Selenium actions, and validate methods, so it can be run from a main or from Junit
-
-- read a json property file
-
-- username/password to args
-
-- queries in a property file
-
-- learn README.md syntax
-
-- put all of my tips and tricks into git
-
-- javadocs my methods
-
-- backup my git repos to my master drive
-
-- checkArgs for -h or help
 
 - try/catch around my findelements
 
-- rename Development.git
+- checkArgs for -h or help
 
+- use Junit and Selenium.  Create, for example, a Twitter object with Selenium actions, and validate methods, so it can be run from a main or from Junit
+
+- put craigslist queries in a property file
+
+- learn README.md syntax
+- make pretty all me code
+- javadocs my methods
+- comment and organize my perl scripts
 - add author comment to all of my stuff, i cant believe how much i've forgotten
 
-- make pretty all me code
+- put all of my tips and tricks into git?
 
+- backup my git repos to my master drive
+
+- try Python Selenium
+
+- mess with Jenkins after getting the Twitter JUnit going
+
+
+
+Ideas:
+- spend some time researching a datasource for my dream world epic dataset
 - twitter chatbot with my made it up translator
-
-- make a dataset(harvest from web?)
-
+- make a dataset(harvest from web?), then machine learning
