@@ -8,5 +8,7 @@ ideas for hacking stuff or tech to practice:
 
 - queries in a property file
 
+- learn README.md syntax
 
+- put all of my tips and tricks into git
 
