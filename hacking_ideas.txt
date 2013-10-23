@@ -1,1 +1,12 @@
-ideas for hacking stuff
+ideas for hacking stuff or tech to practice:
+
+- use Junit and Selenium.  Create, for example, a Twitter object with Selenium actions, and validate methods, so it can be run from a main or from Junit
+
+- read a json property file
+
+- username/password to args
+
+- queries in a property file
+
+
+
