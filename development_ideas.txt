@@ -1,5 +1,7 @@
 ideas for hacking stuff or tech to practice:
 
+- Press the sign-in button and tweet something
+
 - use Junit and Selenium.  Create, for example, a Twitter object with Selenium actions, and validate methods, so it can be run from a main or from Junit
 
 - read a json property file
@@ -13,3 +15,9 @@ ideas for hacking stuff or tech to practice:
 - put all of my tips and tricks into git
 
 - javadocs my methods
+
+- backup my git repos to my master drive
+
+- checkArgs for -h or help
+
+- try/catch around my findelements
