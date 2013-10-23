@@ -5,7 +5,7 @@ Documentation
 This repo is just a scratch pad area for me to write notes down and also to practice git.
 
 
-## Stuff I may put in here:
+### Stuff I may put in here:
 
 * Development Ideas
 * To do lists
