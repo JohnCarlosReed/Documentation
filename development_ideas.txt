@@ -23,3 +23,5 @@ ideas for hacking stuff or tech to practice:
 - try/catch around my findelements
 
 - rename Development.git
+
+- add author comment to all of my stuff, i cant believe how much i've forgotten
