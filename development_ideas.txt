@@ -21,3 +21,5 @@ ideas for hacking stuff or tech to practice:
 - checkArgs for -h or help
 
 - try/catch around my findelements
+
+- rename Development.git
