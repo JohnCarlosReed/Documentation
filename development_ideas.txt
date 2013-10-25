@@ -3,7 +3,7 @@ Next Actions:
 
 - copy my maven notes
 
-- Tweet something
+- Tweet somethingz
 
 - gnu license
 
