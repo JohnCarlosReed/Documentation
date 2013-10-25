@@ -1,5 +1,8 @@
 Next Actions:
-- figure out how to tell if a newly created and committed branch has been merged with master
+=============
+
+
+* figure out how to tell if a newly created and committed branch has been merged with master
  
 - copy my maven notes
 
