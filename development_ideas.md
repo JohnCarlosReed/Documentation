@@ -2,7 +2,6 @@ Next Actions:
 =============
 - submit to the practice git repo
 - copy my maven notes
-- git tips to git
 - gnu license
 - config file
 - use my free ebook coupon that is in the blue bag
@@ -10,9 +9,8 @@ Next Actions:
 - checkArgs for -h or help
 - use Junit and Selenium
 - server, screen
-- practice with dev branch, learn about doing fetch and merge, instead of git pull
+- try fetch and merge, instead of git pull
 - watch the selenium/junit youtube vid i have bookmarked
-- read selenium api
 - put craigslist queries in a property file
 - make pretty my READMEs
 - make pretty all me code
@@ -35,3 +33,4 @@ Ideas:
 - twitter chatbot with my made it up translator
 - make a dataset(harvest from web?), then machine learning
 - sit
+- od&d char generator
