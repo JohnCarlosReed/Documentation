@@ -33,3 +33,4 @@ Ideas:
 - spend some time researching a datasource for my dream world epic dataset
 - twitter chatbot with my made it up translator
 - make a dataset(harvest from web?), then machine learning
+- sit
