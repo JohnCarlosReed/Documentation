@@ -1,7 +1,7 @@
 GIT TIPS AND TRICKS
 ===================
 
-- If you add a new file and then add more changes, it will appear as modified in git status.  If you commit, you are only committing the add, your next commit will have conflicts.  To prevent this, add file again
+- If you add a new file and then add more changes, it will appear as modified in git status.  You can run into conflicts missing that.  To prevent, git add new file again
 
 - set editor:
 git config --global core.editor vi
