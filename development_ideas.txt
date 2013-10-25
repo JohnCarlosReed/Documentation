@@ -35,7 +35,7 @@ Next Actions:
 
 - backup my git repos to my master drive
 
-- learn maven
+- practice maven
 
 - try Python Selenium
 
