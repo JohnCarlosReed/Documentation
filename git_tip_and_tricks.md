@@ -7,8 +7,8 @@ GIT TIPS AND TRICKS
     - git config --global core.editor vi
     - export EDITOR=vi
 
-- Get repo info:
- git config --list
+> - Get repo info:
+>  git config --list
 
 - Show diff of staged files only
 git diff --staged
