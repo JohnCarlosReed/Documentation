@@ -1,6 +1,8 @@
 Next Actions:
 - clean office, org bookmarks
 
+- copy my maven notes
+
 - Tweet something
 
 - gnu license
