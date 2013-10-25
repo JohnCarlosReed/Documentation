@@ -1,8 +1,8 @@
 Next Actions:
 =============
 
-- figure out how to tell if a newly created and committed branch has been merged with master
 - copy my maven notes
+- git tips to git
 - gnu license
 - config file
 - use my free ebook coupon that is in the blue bag
