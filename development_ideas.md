@@ -1,6 +1,6 @@
 Next Actions:
 =============
-
+- fix whitespace problem
 - copy my maven notes
 - git tips to git
 - gnu license
