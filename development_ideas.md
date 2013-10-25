@@ -1,6 +1,6 @@
 Next Actions:
 =============
-- fix whitespace problem
+- submit to the practice git repo
 - copy my maven notes
 - git tips to git
 - gnu license
@@ -29,6 +29,7 @@ Next Actions:
 
 Ideas:
 ======
+- fork someone
 - pick something that exists, make it better or just rewrite in another lang
 - spend some time researching a datasource for my dream world epic dataset
 - twitter chatbot with my made it up translator
