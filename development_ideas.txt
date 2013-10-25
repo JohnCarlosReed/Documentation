@@ -1,5 +1,5 @@
 Next Actions:
--  org bookmarks
+- org bookmarks
 
 - copy my maven notes
 
@@ -17,7 +17,7 @@ Next Actions:
 
 - server, screen
 
-- practice with dev branch
+- practice with dev branch, learn about doing fetch and merge, instead of git pull
 
 - watch the selenium/junit youtube vid i have bookmarked
 
