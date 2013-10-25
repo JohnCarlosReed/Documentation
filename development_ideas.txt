@@ -1,6 +1,4 @@
 Next Actions:
-- org bookmarks
-
 - copy my maven notes
 
 - gnu license
