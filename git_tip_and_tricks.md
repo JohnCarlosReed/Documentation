@@ -1,7 +1,9 @@
 GIT TIPS AND TRICKS
 ===================
 
-If you add a new file and then add more changes, it will appear as modified in git status.  You can run into conflicts missing that.  To prevent, git add new file again
+- Great explanation of what [git add remote](https://help.github.com/articles/fork-a-repo) upstream is for
+
+- If you add a new file and then add more changes, it will appear as modified in git status.  You can run into conflicts missing that.  To prevent, git add new file again
 
 ````
 set editor
@@ -36,9 +38,6 @@ After a commit, add another file then amend to replace previous commit
 git add <forgottenfile>
 git commit --amend
 ````
-
-- Great explanation of what [git add remote](https://help.github.com/articles/fork-a-repo) upstream is for
-
 
 ````
 Adding a remote
