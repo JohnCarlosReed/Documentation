@@ -8,7 +8,7 @@ GIT TIPS AND TRICKS
     - export EDITOR=vi
 
 ````
-- Get repo info:
+Get repo info:
 git config --list
 ````
 - Show diff of staged files only
