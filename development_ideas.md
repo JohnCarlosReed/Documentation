@@ -33,4 +33,3 @@ Ideas:
 - twitter chatbot with my made it up translator
 - make a dataset(harvest from web?), then machine learning
 - sit
-- od&d char generator

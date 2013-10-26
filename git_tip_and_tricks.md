@@ -24,6 +24,8 @@ git commit --amend
 git add <forgottenfile>
 git commit --amend
 
+- Great explanation of what [git add remote](https://help.github.com/articles/fork-a-repo) upstream is for
+
 - Adding a remote
 git remote add <remote name> <git url>
 
