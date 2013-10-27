@@ -1,6 +1,5 @@
 Next Actions:
 =============
-- submit to the practice git repo
 - copy my maven notes
 - gnu license
 - config file
@@ -22,14 +21,30 @@ Next Actions:
 - practice maven
 - try Python Selenium
 - mess with Jenkins after getting the Twitter JUnit going
-
+- write to andy the poet guy
 
 
 Ideas:
 ======
+- make a webserver!
 - fork someone
 - pick something that exists, make it better or just rewrite in another lang
 - spend some time researching a datasource for my dream world epic dataset
 - twitter chatbot with my made it up translator
 - make a dataset(harvest from web?), then machine learning
 - sit
+
+A simple web server that can serve HTML files that contain Javascript and
+other forms of non-code executing code. Added complexity would be to try
+and implement streaming video, create a server-side language, or serve up other
+stream types.
+
+An automated program which carries out tasks on the web including checking
+websites, page scraping, and summarization of data or web posting.
+
+Quiz Maker
+
+
+Narrowing it down:
+Java, C
+What common tools do I use that I could reproduce on the cmd line?  Something like wget  
