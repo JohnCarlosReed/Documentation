@@ -1,31 +1,31 @@
 Next Actions:
 =============
+- make pretty my READMEs
+- make pretty all me code
+- comment and organize my perl scripts
+- gnu license
+- javadocs my methods
+- add author comment to all of my stuff, i cant believe how much i've forgotten
 - ask kendrik
 - git clone work backup to jdata
+- backup my git repos to my master drive
 - Use Selenium on Google Maps and publish
 - read the java book and the git book
 - try eclipse breakpoint 
 - publish astro data using java/tomcat
 - copy my maven notes
-- gnu license
-- config file
 - use my free ebook coupon that is in the blue bag
-- try/catch around my findelements
-- checkArgs for -h or help
-- use Junit and Selenium
 - server, screen
 - try fetch and merge, instead of git pull
 - watch the selenium/junit youtube vid i have bookmarked
-- put craigslist queries in a property file
-- make pretty my READMEs
-- make pretty all me code
-- javadocs my methods
-- comment and organize my perl scripts
-- add author comment to all of my stuff, i cant believe how much i've forgotten
-- put all of my tips and tricks into git?
-- backup my git repos to my master drive
 - practice maven
 
+Current Selenium projects
+- try/catch around my findelements
+- checkArgs for -h or help
+- config file
+- put craigslist queries in a property file
+- use Junit and Selenium
 
 Ideas:
 ======
