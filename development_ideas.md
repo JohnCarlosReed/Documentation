@@ -1,7 +1,10 @@
 Next Actions:
 =============
 - ask kendrik
-- backup master drive, merge with johndata as new master 
+- git clone work backup to jdata
+- Use Selenium on Google Maps and publish
+- read the java book and the git book
+- try eclipse breakpoint 
 - publish astro data using java/tomcat
 - copy my maven notes
 - gnu license
@@ -22,8 +25,6 @@ Next Actions:
 - put all of my tips and tricks into git?
 - backup my git repos to my master drive
 - practice maven
-- try Python Selenium
-- mess with Jenkins after getting the Twitter JUnit going
 
 
 Ideas:
