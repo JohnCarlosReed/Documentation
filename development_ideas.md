@@ -1,5 +1,8 @@
 Next Actions:
 =============
+- ask kendrik
+- backup master drive, merge with johndata as new master 
+- publish astro data using java/tomcat
 - copy my maven notes
 - gnu license
 - config file
@@ -21,7 +24,6 @@ Next Actions:
 - practice maven
 - try Python Selenium
 - mess with Jenkins after getting the Twitter JUnit going
-- write to andy the poet guy
 
 
 Ideas:
