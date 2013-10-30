@@ -3,8 +3,9 @@ Next Actions:
 
 Educational Game Development
 ----------------
+- check reddit
+- get css working for the 6 arrows
 - check the free books on github for html5 and JS
-- create a repo and get going
 
 
 Git Stuff
