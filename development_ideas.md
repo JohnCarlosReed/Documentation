@@ -4,6 +4,10 @@ Next Actions:
 Educational Game Development
 ----------------
 - check reddit
+- git clone to jc
+- add 3 text boxes representing the gut/liver/muscles
+- add textboxes on right
+- add textboxes on top
 - get css working for the 6 arrows
 - check the free books on github for html5 and JS
 
@@ -19,7 +23,6 @@ Git Stuff
 - git clone work backup to jdata
 - backup my git repos to my master drive
 - read the git book
-- try fetch and merge, instead of git pull
 
 
 Home Server
@@ -30,5 +33,5 @@ Home Server
 
 Other
 -----
-- read the java book 
+- read the Javascript book 
 
