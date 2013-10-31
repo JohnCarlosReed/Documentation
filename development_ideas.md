@@ -28,8 +28,14 @@ Home Server
 - research System 76, lenovo
 - try screen
 - think of "always on" application
+- put away old gateway
+- convert jc and b1 to ubuntu
+- research irssi(ntw) or znc(erasmas)
 
 Other
 -----
 - use my free ebook coupon that is in the blue bag
 
+Ideas
+-----
+- Write a book or list of things in github

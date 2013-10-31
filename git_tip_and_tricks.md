@@ -56,7 +56,19 @@ When you get the crappy conflict tags, vi the file, fix it, then add, commit, an
 "Upstream" would refer to the main repo that other people will be pulling from, e.g. your GitHub repo. The -u option automatically sets that upstream for you, linking your repo to a central one. That way, in the future, Git "knows" where you want to push to and where you want to pull from, so you can use git pull or git push without arguments. 
 git can set a particular branch in a remote repository to be the default "upstream" branch for that particular branch. For example, if you clone an existing repository, git will, by default, associate your master branch with the master branch in the origin repository, i.e. the one you're cloning from. This means that git can provide helpful defaults, such as being able to just use git pull while on master rather than having to specify a repository and a branch to fetch and merge from. It's also this association that lets git produce its helpful "Your branch is ahead of origin/master by 10 commits" messages...
 
+````
+Linking to line numbers
+Clicking on the line number changes the URL.  You can copy/paste the url and it will highlight that line to the reader.
+````
+
+````
+github comments are parsed with markdown.
+````
+
 Finding Things
 =============
 - language:java
 - sort by forks and stars
+
+
+
