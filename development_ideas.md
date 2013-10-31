@@ -27,6 +27,7 @@ Home Server
 -----------
 - research System 76, lenovo
 - try screen
+- think of "always on" application
 
 Other
 -----
