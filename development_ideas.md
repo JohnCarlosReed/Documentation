@@ -3,12 +3,10 @@ Next Actions:
 
 Educational Game Development
 ----------------
-- check reddit
-- git clone to jc
-- add 3 text boxes representing the gut/liver/muscles
-- add textboxes on right
-- add textboxes on top
-- get css working for the 6 arrows
+- test eclipse
+- Import the js file to my dir
+- Learn about jQuery on ready stuff
+- Get the six guages working
 - check the free books on github for html5 and JS
 
 
@@ -27,11 +25,10 @@ Git Stuff
 
 Home Server
 -----------
-- server, screen
-- use my free ebook coupon that is in the blue bag
-
+- research System 76, lenovo
+- try screen
 
 Other
 -----
-- read the Javascript book 
+- use my free ebook coupon that is in the blue bag
 
