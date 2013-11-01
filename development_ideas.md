@@ -3,10 +3,9 @@ Next Actions:
 
 Educational Game Development
 ----------------
-- test eclipse
-- Import the js file to my dir
-- Learn about jQuery on ready stuff
-- Get the six guages working
+- research horizontal and meter elements(both go vertical) or:
+- use jQuery slider, also goes vertical 
+- Look into which Eclipse good for JS
 - check the free books on github for html5 and JS
 
 
@@ -25,16 +24,16 @@ Git Stuff
 
 Home Server
 -----------
-- research System 76, lenovo
-- try screen
-- think of "always on" application
 - put away old gateway
+- try screen
+- research System 76, lenovo
+- znc irc bouncer
+- think of "always on" application
 - convert jc and b1 to ubuntu
-- research irssi(ntw) or znc(erasmas)
 
 Other
 -----
-- use my free ebook coupon that is in the blue bag
+- use my free ebook coupon that is in the blue bag, html5 ?
 
 Ideas
 -----
