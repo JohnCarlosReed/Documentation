@@ -3,15 +3,22 @@ Next Actions:
 
 Educational Game Development
 ----------------
+- test a main loop
+- after main loop, demo get all elements changing
 - research horizontal and meter elements(both go vertical) or:
 - use jQuery slider, also goes vertical 
 - Look into which Eclipse good for JS
-- check the free books on github for html5 and JS
 
 
 Git Stuff
 -------------------------
 - make pretty my READMEs
+    - java model
+    - madeitup
+    - mapattack
+    - spaceplaces
+    - seti simple
+    - php4to5
 - make pretty all me code
 - comment and organize my perl scripts
 - gnu license
@@ -25,6 +32,7 @@ Git Stuff
 Home Server
 -----------
 - put away old gateway
+- test hibernation using other irc connection
 - try screen
 - research System 76, lenovo
 - znc irc bouncer
@@ -33,8 +41,10 @@ Home Server
 
 Other
 -----
+- start a js scratchpad repo
 - use my free ebook coupon that is in the blue bag, html5 ?
 
 Ideas
 -----
 - Write a book or list of things in github
+- find another irc room
