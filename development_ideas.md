@@ -3,11 +3,11 @@ Next Actions:
 
 Educational Game Development
 ----------------
-- test a main loop
-- after main loop, demo get all elements changing
+- find a real editor
+- get the rest of the gauges working in demo
 - research horizontal and meter elements(both go vertical) or:
 - use jQuery slider, also goes vertical 
-- Look into which Eclipse good for JS
+- clean up code
 
 
 Git Stuff
@@ -41,6 +41,8 @@ Home Server
 
 Other
 -----
+- read canvas and jquery pocket ref
+- try node.js
 - start a js scratchpad repo
 - use my free ebook coupon that is in the blue bag, html5 ?
 
