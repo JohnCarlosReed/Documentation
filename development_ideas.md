@@ -7,15 +7,25 @@ Educational Game Development
 - research horizontal and meter elements(both go vertical) or:
 - use jQuery slider, also goes vertical 
 - clean up code
+
+
+Javascript
+----------
+- get jquery working in template
+- helloworld canvas
 - read style guide
-- use strict
+- rackspace javasriptoria
 - research debuggers
-- javasriptoria
+- reread novice to ninja
+- json serialization
+- read canvas and jquery pocket ref
+- try node.js
+- use my free ebook coupon that is in the blue bag
 
 
 Git Stuff
 -------------------------
-- gnu license
+- add license from javascriptora to all my repos
 - make pretty my READMEs
     - java model
     - madeitup
@@ -41,14 +51,9 @@ Home Server
 - think of "always on" application
 - convert jc and b1 to ubuntu
 
-Other
------
-- read canvas and jquery pocket ref
-- try node.js
-- start a js scratchpad repo
-- use my free ebook coupon that is in the blue bag
 
 Ideas
 -----
 - Write a book or list of things in github
 - find another irc room
+- canvas to draw circles and draw solar system
