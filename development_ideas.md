@@ -3,25 +3,27 @@ Next Actions:
 
 Educational Game Development
 ----------------
-- find a real editor
-- get the rest of the gauges working in demo
+- get the stop/pause button to work
 - research horizontal and meter elements(both go vertical) or:
 - use jQuery slider, also goes vertical 
 - clean up code
+- read style guide
+- use strict
+- research debuggers
+- javasriptoria
 
 
 Git Stuff
 -------------------------
+- gnu license
 - make pretty my READMEs
     - java model
     - madeitup
     - mapattack
     - spaceplaces
     - seti simple
-    - php4to5
 - make pretty all me code
 - comment and organize my perl scripts
-- gnu license
 - javadocs my methods
 - add author comment to all of my stuff, i cant believe how much ive forgotten
 - git clone work backup to jdata
@@ -44,7 +46,7 @@ Other
 - read canvas and jquery pocket ref
 - try node.js
 - start a js scratchpad repo
-- use my free ebook coupon that is in the blue bag, html5 ?
+- use my free ebook coupon that is in the blue bag
 
 Ideas
 -----
