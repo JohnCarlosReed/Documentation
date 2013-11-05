@@ -12,7 +12,6 @@ Educational Game Development
 Javascript
 ----------
 - get jquery working in template
-- helloworld canvas
 - read style guide
 - rackspace javasriptoria
 - research debuggers
@@ -21,13 +20,14 @@ Javascript
 - read canvas and jquery pocket ref
 - try node.js
 - use my free ebook coupon that is in the blue bag
+- fractals w/ my own algs
+- rotate a 3d image
 
 
 Git Stuff
 -------------------------
 - add license from javascriptora to all my repos
 - make pretty my READMEs
-    - java model
     - madeitup
     - mapattack
     - spaceplaces
@@ -43,8 +43,6 @@ Git Stuff
 
 Home Server
 -----------
-- put away old gateway
-- test hibernation using other irc connection
 - try screen
 - research System 76, lenovo
 - znc irc bouncer
@@ -55,5 +53,7 @@ Home Server
 Ideas
 -----
 - Write a book or list of things in github
-- find another irc room
 - canvas to draw circles and draw solar system
+- make my own fib sequence
+- invent a hangman type game
+- pie chart timer for kids, change colors!
