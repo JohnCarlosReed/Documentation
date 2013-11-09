@@ -43,6 +43,9 @@ Git Stuff
 
 Home Server
 -----------
+- install Linux Mint
+- install Debian
+- install Csound
 - try screen
 - research System 76, lenovo
 - znc irc bouncer
