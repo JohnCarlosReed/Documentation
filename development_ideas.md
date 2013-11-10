@@ -1,16 +1,29 @@
 Next Actions:
 =============
 
+Ideas
+-----
+- an interpreter for my own esoteric language
+- canvas to draw circles and draw solar system
+- make my own fib sequence
+- think of a C project
+
+Home Server
+-----------
+- install Debian
+- try screen
+- research System 76, lenovo
+- znc irc bouncer
+- think of "always on" application
+
 Educational Game Development
 ----------------
-- get the stop/pause button to work
-- research horizontal and meter elements(both go vertical) or:
-- use jQuery slider, also goes vertical 
-- clean up code
+- Write John when he gets back to Canada
 
 
 Javascript
 ----------
+- pie chart timer for kids, change colors!
 - get jquery working in template
 - read style guide
 - rackspace javasriptoria
@@ -39,24 +52,3 @@ Git Stuff
 - git clone work backup to jdata
 - backup my git repos to my master drive
 - read the git book
-
-
-Home Server
------------
-- install Linux Mint
-- install Debian
-- install Csound
-- try screen
-- research System 76, lenovo
-- znc irc bouncer
-- think of "always on" application
-- convert jc and b1 to ubuntu
-
-
-Ideas
------
-- Write a book or list of things in github
-- canvas to draw circles and draw solar system
-- make my own fib sequence
-- invent a hangman type game
-- pie chart timer for kids, change colors!
