@@ -3,14 +3,17 @@ Next Actions:
 
 Ideas
 -----
+- start C repo, hello world, search for math problems 
+- finish js timer
+- try to output an image or gui in c, perhaps mandelbrot
 - an interpreter for my own esoteric language
-- canvas to draw circles and draw solar system
 - make my own fib sequence
-- think of a C project
+- http://students360.in/c-mini-projects/
+- http://students360.in/c-projects/
+- ascii or print a pattern
 
 Home Server
 -----------
-- install Debian
 - try screen
 - research System 76, lenovo
 - znc irc bouncer
