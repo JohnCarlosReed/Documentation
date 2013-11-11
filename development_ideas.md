@@ -3,6 +3,7 @@ Next Actions:
 
 Ideas
 -----
+- buy the K&R book
 - start C repo, hello world, search for math problems 
 - finish js timer
 - try to output an image or gui in c, perhaps mandelbrot
