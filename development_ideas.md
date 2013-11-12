@@ -3,8 +3,8 @@ Next Actions:
 
 Ideas
 -----
-- buy the K&R book
 - start C repo, hello world, search for math problems 
+- yes or no.  magic 8 ball type of thing
 - finish js timer
 - try to output an image or gui in c, perhaps mandelbrot
 - an interpreter for my own esoteric language
@@ -12,6 +12,7 @@ Ideas
 - http://students360.in/c-mini-projects/
 - http://students360.in/c-projects/
 - ascii or print a pattern
+- build johndata
 
 Home Server
 -----------
