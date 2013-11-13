@@ -4,8 +4,7 @@ Next Actions:
 Ideas
 -----
 - start C repo, hello world, search for math problems 
-- yes or no.  magic 8 ball type of thing
-- finish js timer
+- shouldi - do it in C then after wrap it in gtk or qt
 - try to output an image or gui in c, perhaps mandelbrot
 - an interpreter for my own esoteric language
 - make my own fib sequence
@@ -21,30 +20,9 @@ Home Server
 - znc irc bouncer
 - think of "always on" application
 
-Educational Game Development
-----------------
-- Write John when he gets back to Canada
-
-
-Javascript
-----------
-- pie chart timer for kids, change colors!
-- get jquery working in template
-- read style guide
-- rackspace javasriptoria
-- research debuggers
-- reread novice to ninja
-- json serialization
-- read canvas and jquery pocket ref
-- try node.js
-- use my free ebook coupon that is in the blue bag
-- fractals w/ my own algs
-- rotate a 3d image
-
 
 Git Stuff
 -------------------------
-- add license from javascriptora to all my repos
 - make pretty my READMEs
     - madeitup
     - mapattack
@@ -56,4 +34,3 @@ Git Stuff
 - add author comment to all of my stuff, i cant believe how much ive forgotten
 - git clone work backup to jdata
 - backup my git repos to my master drive
-- read the git book
