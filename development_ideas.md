@@ -3,6 +3,7 @@ Next Actions:
 
 Ideas
 -----
+- try http://www.charlesproxy.com/
 - start C repo, hello world, search for math problems 
 - shouldi - do it in C then after wrap it in gtk or qt
 - try to output an image or gui in c, perhaps mandelbrot
