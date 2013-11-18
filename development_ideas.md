@@ -3,13 +3,10 @@ Next Actions:
 
 Ideas
 -----
-- gnu irc
 - histogram of pi numbers
 - try http://www.charlesproxy.com/
 - read http://people.freedesktop.org/~marcheu/linuxgraphicsdrivers.pdf
 - do the lkml faq suggestions
-- start C repo, hello world, search for math problems 
-- shouldi - do it in C then after wrap it in gtk or qt
 - try to output an image or gui in c, perhaps mandelbrot
 - an interpreter for my own esoteric language
 - make my own fib sequence
@@ -17,14 +14,6 @@ Ideas
 - http://students360.in/c-projects/
 - ascii or print a pattern
 - build johndata
-
-Home Server
------------
-- try screen
-- research System 76, lenovo
-- znc irc bouncer
-- think of "always on" application
-
 
 Git Stuff
 -------------------------
