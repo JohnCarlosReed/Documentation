@@ -14,6 +14,11 @@ Ideas
 - http://students360.in/c-projects/
 - ascii or print a pattern
 - build johndata
+- crptograms
+- word histograms
+- char histograms
+- compression.  from text, or binary
+
 
 Git Stuff
 -------------------------
