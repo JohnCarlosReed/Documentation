@@ -18,6 +18,7 @@ Ideas
 - word histograms
 - char histograms
 - compression.  from text, or binary
+- drivers needed: http://www.linuxdriverproject.org/mediawiki/index.php/Drivers_Needed
 
 
 Git Stuff
