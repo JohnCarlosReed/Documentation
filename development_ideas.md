@@ -3,6 +3,7 @@ Next Actions:
 
 Ideas
 -----
+- +1 readme, docs cleanup
 - write usage for shouldi and dhist
 - try http://www.charlesproxy.com/
 - read http://people.freedesktop.org/~marcheu/linuxgraphicsdrivers.pdf
