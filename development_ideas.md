@@ -21,6 +21,7 @@ Ideas
 - compression.  from text, or binary
 - drivers needed: http://www.linuxdriverproject.org/mediawiki/index.php/Drivers_Needed
 - contributing to open source: http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/
+- think of things out there now and take them "one step further"
 
 
 Git Stuff
