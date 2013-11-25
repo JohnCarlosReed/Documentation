@@ -3,7 +3,10 @@ Next Actions:
 
 Ideas
 -----
+- find my license
+- submit a patent for terrarium idea
 - +1 readme, docs cleanup
+- figure out vi undo
 - write usage for shouldi and dhist
 - try http://www.charlesproxy.com/
 - read http://people.freedesktop.org/~marcheu/linuxgraphicsdrivers.pdf
@@ -36,3 +39,10 @@ Git Stuff
 - comment and organize my perl scripts
 - javadocs my methods
 - add author comment to all of my stuff, i cant believe how much ive forgotten
+
+Daily
+-----
+- 30 mins cardio
+- 10 ideas per day
+- 750 words
+- 
