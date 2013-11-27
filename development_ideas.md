@@ -38,7 +38,7 @@ Daily
 - 10 ideas per day
 - 750 words
 - 4 pages of K&R
-- Mediate 20 mins
+- Meditate 20 mins
 
 Writing Prompts
 - think of things out there now and take them "one step further"
