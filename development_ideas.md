@@ -3,15 +3,11 @@ Next Actions:
 
 Ideas
 -----
-- find my license
 - +1 readme, docs cleanup
-- figure out vi undo
 - write usage for shouldi and dhist
 - try http://www.charlesproxy.com/
 - read http://people.freedesktop.org/~marcheu/linuxgraphicsdrivers.pdf
 - do the lkml faq suggestions
-- try to output an image or gui in c, perhaps mandelbrot
-- an interpreter for my own esoteric language
 - http://students360.in/c-mini-projects/
 - http://students360.in/c-projects/
 - build johndata
