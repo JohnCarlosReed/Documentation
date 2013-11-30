@@ -13,6 +13,7 @@ Ideas
 - build johndata
 - drivers needed: http://www.linuxdriverproject.org/mediawiki/index.php/Drivers_Needed
 - contributing to open source: http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/
+- chalk
 
 
 Git Stuff
