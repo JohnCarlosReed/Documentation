@@ -15,6 +15,7 @@ Ideas
 - contributing to open source: http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/
 - chalk
 - xkcd or annagram, j0
+- perl 4 letter words
 
 
 Git Stuff
@@ -35,7 +36,6 @@ Daily
 - 30 mins cardio
 - 10 ideas per day
 - 750 words
-- 4 pages of K&R
 - Meditate 20 mins
 
 Writing Prompts
